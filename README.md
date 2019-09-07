@@ -1,5 +1,5 @@
 # webpack-html-es6-less-boilerplate
-Boilerplate (blank) project for HTML, JavaScript (ES6), CSS (Less). Output is standalone inline ***build/index.html***.
+Boilerplate (blank) project for HTML, JavaScript (ES6), CSS (Less). Output is standalone inline ***public/index.html***.
 
 ## Usage
 ### 1. Install dependencies
