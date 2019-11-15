@@ -12,7 +12,7 @@
         "url": "https://github.com/carbongo/webpack-html-es6-less-boilerplate.git"
     },
     "author": "George An. (https://github.com/carbongo)",
-    "license": "ISC",
+    "license": "MIT",
     "keywords": [
         "webpack",
         "boilerplate",
